@@ -11,6 +11,9 @@
 		B76EBC9E2A22348900692A8D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76EBC9D2A22348900692A8D /* ContentView.swift */; };
 		B76EBCA02A22348A00692A8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76EBC9F2A22348A00692A8D /* Assets.xcassets */; };
 		B76EBCA32A22348A00692A8D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76EBCA22A22348A00692A8D /* Preview Assets.xcassets */; };
+		B76EBCAC2A2235A600692A8D /* JsonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76EBCAB2A2235A600692A8D /* JsonManager.swift */; };
+		B76EBCAE2A223C9700692A8D /* WorkWith.json in Resources */ = {isa = PBXBuildFile; fileRef = B76EBCAD2A223C9700692A8D /* WorkWith.json */; };
+		B76EBCB02A223D8300692A8D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76EBCAF2A223D8300692A8D /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		B76EBC9D2A22348900692A8D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B76EBC9F2A22348A00692A8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B76EBCA22A22348A00692A8D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B76EBCAB2A2235A600692A8D /* JsonManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonManager.swift; sourceTree = "<group>"; };
+		B76EBCAD2A223C9700692A8D /* WorkWith.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = WorkWith.json; sourceTree = "<group>"; };
+		B76EBCAF2A223D8300692A8D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +61,9 @@
 				B76EBC9D2A22348900692A8D /* ContentView.swift */,
 				B76EBC9F2A22348A00692A8D /* Assets.xcassets */,
 				B76EBCA12A22348A00692A8D /* Preview Content */,
+				B76EBCAB2A2235A600692A8D /* JsonManager.swift */,
+				B76EBCAD2A223C9700692A8D /* WorkWith.json */,
+				B76EBCAF2A223D8300692A8D /* DetailView.swift */,
 			);
 			path = Jason;
 			sourceTree = "<group>";
@@ -127,6 +136,7 @@
 			files = (
 				B76EBCA32A22348A00692A8D /* Preview Assets.xcassets in Resources */,
 				B76EBCA02A22348A00692A8D /* Assets.xcassets in Resources */,
+				B76EBCAE2A223C9700692A8D /* WorkWith.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B76EBC9E2A22348900692A8D /* ContentView.swift in Sources */,
+				B76EBCB02A223D8300692A8D /* DetailView.swift in Sources */,
+				B76EBCAC2A2235A600692A8D /* JsonManager.swift in Sources */,
 				B76EBC9C2A22348900692A8D /* JasonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

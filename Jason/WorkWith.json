@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Abdulrazaq",
+        "surname": "Ali",
+        "gender": "Male",
+        "age": 23,
+        "address": {
+            "streetAddress": "AL-Solb",
+            "city": "Farasan island",
+            "state": "Farasan island",
+            "postalCode": "111222"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+966537286815" }
+        ]
+    },
+    {
+        "firstName": "Luigi",
+        "surname": "Pomodoro",
+        "gender": "Male",
+        "age": 25,
+        "address": {
+            "streetAddress": "Via Mushroom 126",
+            "city": "Mushroom City",
+            "state": "Mushroom Kingdom",
+            "postalCode": "111222"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+390212345679" }
+        ]
+    },
+    {
+        "firstName": "Toad",
+        "surname": "Toad",
+        "gender": "Male",
+        "age": 90,
+        "address": {
+            "streetAddress": "Via Mushroom 300",
+            "city": "Mushroom City",
+            "state": "Mushroom Kingdom",
+            "postalCode": "111222"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+390214345679" }
+        ]
+    }
+]
